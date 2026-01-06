@@ -14,6 +14,11 @@ The goal is to enable data-driven vendor decisions, improve downstream reliabili
 5. Provide transparent documentation for audits and stakeholder alignment
 
 #### 🗂️ Project Structure
+To run the SQL notebook, please visit folder >models>Exploratory_data.ipynb
+
+To view management report, please visit folder >output>management_report.md
+
+To view output files from data analysis, please visit folder >output
 ````
 vendor-data-quality/
 ├── README.md
@@ -30,6 +35,7 @@ vendor-data-quality/
 ├── output/
 │   ├── SLA_breach_report.csv
 │   ├── vendor_missing_value_flag.csv
+│   ├── management_report.md
 ````
 
 #### 📊 Data Model (Mock Vendor Records)
