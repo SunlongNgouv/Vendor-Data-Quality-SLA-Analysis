@@ -27,6 +27,9 @@ vendor-data-quality/
 │   ├── data_quality_definition.md
 │   ├── vendor_bakeoff_methodology.md
 │   └── data_lineage.md
+├── output/
+│   ├── SLA_breach_report.csv
+│   ├── vendor_missing_value_flag.csv
 ````
 
 #### 📊 Data Model (Mock Vendor Records)
@@ -67,10 +70,10 @@ Jurisdictional availability
 
 ##### Weighted Scoring Model
 Data Quality Score =
-  35% PII Completeness
-+ 30% Disposition Accuracy
-+ 20% Freshness
-+ 15% Coverage
+> 35% PII Completeness + 
+> 30% Disposition Accuracy + 
+> 20% Freshness + 
+> 15% Coverage
 
 
 Weights can be adjusted based on jurisdiction risk, compliance requirements, or downstream product sensitivity.

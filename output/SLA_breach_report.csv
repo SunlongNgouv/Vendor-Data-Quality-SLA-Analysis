@@ -1,0 +1,11 @@
+breach_id,vendor,record_id,latency_hour,breach_time,username,email,alert
+1,VendorA,A001,26,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+2,VendorA,A002,26,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+3,VendorA,A003,28,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+4,VendorA,A004,25,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+5,VendorA,A005,50,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+6,VendorA,A006,49,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+7,VendorA,A007,25,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+8,VendorA,A008,25,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+9,VendorA,A009,25,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
+10,VendorA,A010,25,2026-01-05 17:20:24.597576,Alice Nguyen,alice.nguyen@vendorA.com,0
